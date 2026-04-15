@@ -27,4 +27,4 @@ venv/
 
 # macOS
 .DS_Store
-._*
+._*backend/.env
