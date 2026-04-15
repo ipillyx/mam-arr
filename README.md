@@ -1,4 +1,4 @@
-# 🎧 MAM WebApp
+# 🎧 MAMArr WebApp
 
 Self-hosted web interface for **MyAnonamouse** audiobook lovers.  
 Search, preview, and send torrents directly to **qBittorrent** — with optional **Discord notifications** and full Docker support.
